@@ -8,6 +8,6 @@
         @vite('resources/js/app.js')
     </head>
     <body class="antialiased">
-        Body
+        <div id="app"></div>
     </body>
 </html>
